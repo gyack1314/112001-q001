@@ -1,0 +1,5 @@
+[
+  {"source": "build", "period": "2026-01", "project_code": "FJ-A-17", "amount": 1200000, "status": "reported"},
+  {"source": "finance", "period": "2026-01", "project_code": "FJ-A-17", "amount": 1180000, "status": "confirmed"},
+  {"source": "build", "period": "2026-02", "project_code": "FJ-A-017", "amount": 1450000, "status": "reported"}
+]
